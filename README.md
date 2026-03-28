@@ -1,6 +1,8 @@
 # 📦 [MM] Purchasing Status Report
 
-> SAP MM Module | ABAP Report for integrated purchasing status tracking across PO → GR → IR
+![SAP](https://img.shields.io/badge/SAP-ERP-blue?style=flat-square&logo=sap)
+![Module](https://img.shields.io/badge/Module-MM-green?style=flat-square)
+![Type](https://img.shields.io/badge/Type-ALV%20Report-orange?style=flat-square)
 
 ---
 
