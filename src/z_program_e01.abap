@@ -74,7 +74,6 @@ FORM modify_screen .
           screen-active = '1'.
         ENDIF.
       WHEN i_gr_ir.
-        " 어차피 둘 다 띄울 거니까 상관 X
     ENDCASE.
 
     MODIFY SCREEN.
